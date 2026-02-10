@@ -5,5 +5,8 @@
 
 # Introduction
 Sound：Users are randomly assigned voices and audio features.
+
 Visual：Users are randomly assigned colors.
+
 INteraction：When lines from different users intersect, compression creates effects similar to ducking and sidechains. Furthermore, by limiting the pitch, the tonal harmony between the different users' voices is maintained, preserving a harmonious listening experience.
+
